@@ -1,4 +1,4 @@
-var email   = require("email");
+var email   = require("emailjs/email");
 var server  = email.server.connect({
    user:    "samuel.ospina36@gmail.com", 
    password:"", 
